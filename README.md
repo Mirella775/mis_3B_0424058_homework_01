@@ -10,4 +10,4 @@ homework_01
 
 ![](blackpeople.jpg)
 
-![中國新歌聲-我的天空]<https://www.youtube.com/watch?v=fODRP5AYBuU>
+[中國新歌聲-我的天空](https://www.youtube.com/watch?v=fODRP5AYBuU)
