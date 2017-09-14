@@ -8,4 +8,4 @@ homework_01
 
 :date: 2017/09/14 :smile:
 
-![]("black people.jpg")
+![image]("black people.jpg")
