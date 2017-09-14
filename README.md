@@ -9,3 +9,5 @@ homework_01
 :date: 2017/09/14 :smile:
 
 ![](blackpeople.jpg)
+
+![中國新歌聲-我的天空](https://www.youtube.com/watch?v=gR-QRXO1fFU)
